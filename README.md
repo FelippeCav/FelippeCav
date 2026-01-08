@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Felippe Cavalcante</h1>
 
-<!--
-**FelippeCav/FelippeCav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+UI/UX Designer → Front-end Developer <br/>
+Turning Figma designs into pixel-perfect code
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+Focused on building clean, responsive and user-centered interfaces.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://linkedin.com/in/felippe-cavalcante">LinkedIn</a> ·
+  <a href="https://behance.net/felippecavalcante">Behance</a> ·
+  <a href="https://instagram.com/oi.felippe">Instagram</a>
+</p>
