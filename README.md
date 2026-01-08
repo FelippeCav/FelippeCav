@@ -10,7 +10,8 @@ Focused on building clean, responsive and user-centered interfaces.
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/felippe-cavalcante">LinkedIn</a> ·
-  <a href="https://behance.net/felippecavalcante">Behance</a> ·
-  <a href="https://instagram.com/oi.felippe">Instagram</a>
+  <a href="https://linkedin.com/in/felippe-cavalcante" target="_blank" rel="noopener noreferrer">LinkedIn</a> ·
+  <a href="https://behance.net/felippecavalcante" target="_blank" rel="noopener noreferrer">Behance</a> ·
+  <a href="https://instagram.com/oi.felippe" target="_blank" rel="noopener noreferrer">Instagram</a>
 </p>
+
