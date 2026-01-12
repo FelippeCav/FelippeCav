@@ -2,11 +2,13 @@
 
 <h3 align="center">
 UI/UX Designer → Front-end Developer <br/>
-Turning Figma designs into pixel-perfect code
+Turning Figma designs into pixel-perfect, responsive code
 </h3>
 
 <p align="center">
-Focused on building clean, responsive and user-centered interfaces.
+With 10 years of experience in UI/UX design, I’m currently transitioning into front-end development, focusing on building clean, accessible, and scalable interfaces.
+
+My background in digital marketing and business helps me connect user experience, business goals, and technical execution.
 </p>
 
 <p align="center">
