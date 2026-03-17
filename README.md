@@ -1,4 +1,4 @@
-<h3 align="center">felippe@macbook ~ git log --oneline</h3>
+<h3 align="center">felippe@macbook ~ git log</h3>
 
 ```diff id="v8t2kp"
 f3l1pp3 feat(profile): define product designer positioning
