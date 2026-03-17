@@ -1,19 +1,38 @@
-<h1 align="center">Hi 👋, I'm Felippe Cavalcante</h1>
+<h3 align="center">felippe@macbook ~ git log --oneline</h3>
 
-<h3 align="center">
-UI/UX Designer → Front-end Developer <br/>
-Turning Figma designs into pixel-perfect, responsive code
-</h3>
+```diff id="v8t2kp"
+f3l1pp3 feat(profile): define product designer positioning
++ Product Designer focused on UX/UI, Growth and Business Strategy
 
-<p align="center">
-With 10 years of experience in UI/UX design, I’m currently transitioning into front-end development, focusing on building clean, accessible, and scalable interfaces.
+c4v0002 feat(about): add professional background
++ 10+ years across UX, product strategy and digital marketing
++ Focus on user experience, business goals and measurable outcomes
 
-My background in digital marketing and business helps me connect user experience, business goals, and technical execution.
-</p>
+a1b2c3d feat(growth): integrate growth into product thinking
++ Acquisition, conversion and retention mindset
++ Business-driven design decisions
 
-<p align="center">
-  <a href="https://linkedin.com/in/felippe-cavalcante" target="_blank" rel="noopener noreferrer">LinkedIn</a> ·
-  <a href="https://behance.net/felippecavalcante" target="_blank" rel="noopener noreferrer">Behance</a> ·
-  <a href="https://instagram.com/oi.felippe" target="_blank" rel="noopener noreferrer">Instagram</a>
-</p>
+d4e5f6g feat(nicehue): launch accessibility tool
++ Color palette generation
++ Contrast validation (WCAG)
++ https://nicehue.com
 
+h7i8j9k feat(stack): define core capabilities
++ design: Figma, Design Systems, UX Research, IA, Prototyping
++ engineering: React, TypeScript, Tailwind, JS, HTML, CSS
++ growth: Funnels, CAC/LTV/ROAS, A/B Testing, CRM
+
+l0m1n2o feat(focus): define areas of expertise
++ Product Design
++ UX Strategy & Discovery
++ Growth & Conversion Optimization
++ Design Systems
++ Front-end Collaboration
+
+p3q4r5s chore(philosophy): define working mindset
++ Building products at the intersection of design, business and technology
+
+t6u7v8w feat(contact): add external links
++ LinkedIn: linkedin.com/in/felippe-cavalcante
++ Behance: behance.net/felippecavalcante
+```
