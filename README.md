@@ -1,8 +1,8 @@
-<h3 align="center">felippe@macbook ~ git log</h3>
+<h3 align="center">felippe@macbook ~ git log </h3>
 
 ```diff id="v8t2kp"
 f3l1pp3 feat(profile): define product designer positioning
-+ Product Designer focused on UX/UI, Growth and Business Strategy
++ Product Designer focused on UX, Growth and Business Strategy
 
 c4v0002 feat(about): add professional background
 + 10+ years across UX, product strategy and digital marketing
@@ -35,4 +35,5 @@ p3q4r5s chore(philosophy): define working mindset
 t6u7v8w feat(contact): add external links
 + LinkedIn: linkedin.com/in/felippe-cavalcante
 + Behance: behance.net/felippecavalcante
++ Portfolio: nicehue.com
 ```
