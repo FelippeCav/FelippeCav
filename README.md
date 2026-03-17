@@ -1,6 +1,6 @@
-<h3 align="center">felippe@macbook ~ git log </h3>
+<h3 align="center">felippe@macbook ~ git log --author="Felippe Cavalcante"</h3>
 
-```diff id="v8t2kp"
+```diff
 f3l1pp3 feat(profile): define product designer positioning
 + Product Designer focused on UX, Growth and Business Strategy
 
@@ -13,9 +13,9 @@ a1b2c3d feat(growth): integrate growth into product thinking
 + Business-driven design decisions
 
 d4e5f6g feat(nicehue): launch accessibility tool
-+ Color palette generation
-+ Contrast validation (WCAG)
++ NiceHue — accessibility-focused tool for color palettes and contrast validation
 + https://nicehue.com
++ Live product focused on accessibility and color systems
 
 h7i8j9k feat(stack): define core capabilities
 + design: Figma, Design Systems, UX Research, IA, Prototyping
@@ -30,9 +30,9 @@ l0m1n2o feat(focus): define areas of expertise
 + Front-end Collaboration
 
 p3q4r5s chore(philosophy): define working mindset
-+ Building products at the intersection of design, business and technology
++ Building scalable products through UX, growth and technology
 
 t6u7v8w feat(contact): add external links
-+ LinkedIn: linkedin.com/in/felippe-cavalcante
-+ Behance: behance.net/felippecavalcante
++ LinkedIn: https://linkedin.com/in/felippe-cavalcante
++ Behance: https://behance.net/felippecavalcante
 ```
