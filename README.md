@@ -35,5 +35,4 @@ p3q4r5s chore(philosophy): define working mindset
 t6u7v8w feat(contact): add external links
 + LinkedIn: linkedin.com/in/felippe-cavalcante
 + Behance: behance.net/felippecavalcante
-+ Portfolio: nicehue.com
 ```
