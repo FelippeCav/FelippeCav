@@ -1,38 +1,30 @@
-<h3 align="center">felippe@macbook ~ git log --author="Felippe Cavalcante"</h3>
+# Felippe Cavalcante
 
-```diff
-f3l1pp3 feat(profile): define product designer positioning
-+ Product Designer focused on UX, Growth and Business Strategy
+**Senior Product Designer** — UX, product strategy and growth, with front-end implementation skills.
 
-c4v0002 feat(about): add professional background
-+ 10+ years across UX, product strategy and digital marketing
-+ Focus on user experience, business goals and measurable outcomes
+10+ years designing digital products across SaaS, B2B and e-commerce. I work at the intersection of design, business and code — and I ship things.
 
-a1b2c3d feat(growth): integrate growth into product thinking
-+ Acquisition, conversion and retention mindset
-+ Business-driven design decisions
+---
 
-d4e5f6g feat(nicehue): launch accessibility tool
-+ NiceHue — accessibility-focused tool for color palettes and contrast validation
-+ https://nicehue.com
-+ Live product focused on accessibility and color systems
+### What I do
 
-h7i8j9k feat(stack): define core capabilities
-+ design: Figma, Design Systems, UX Research, IA, Prototyping
-+ engineering: React, TypeScript, Tailwind, JS, HTML, CSS
-+ growth: Funnels, CAC/LTV/ROAS, A/B Testing, CRM
+- End-to-end product design: discovery, IA, wireframing, prototyping, design systems
+- Growth-informed UX: funnel design, conversion, A/B testing, metrics that matter
+- Design-to-code: I understand implementation and build my own tools
 
-l0m1n2o feat(focus): define areas of expertise
-+ Product Design
-+ UX Strategy & Discovery
-+ Growth & Conversion Optimization
-+ Design Systems
-+ Front-end Collaboration
+---
 
-p3q4r5s chore(philosophy): define working mindset
-+ Building scalable products through UX, growth and technology
+### Projects
 
-t6u7v8w feat(contact): add external links
-+ LinkedIn: https://linkedin.com/in/felippe-cavalcante
-+ Behance: https://behance.net/felippecavalcante
-```
+**[NiceHue](https://nicehue.com)** — Accessibility-focused color tooling for designers and developers.
+Color palette generation, contrast validation (WCAG), OKLCH support. Built solo.
+
+---
+
+### Links
+
+[LinkedIn](https://linkedin.com/in/felippe-cavalcante) · [NiceHue](https://nicehue.com) · [CodePen](https://codepen.io/felippecav)
+
+---
+
+*Based in Brazil · Open to remote roles in Europe*
