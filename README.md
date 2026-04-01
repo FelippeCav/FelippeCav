@@ -27,4 +27,4 @@ Color palette generation, contrast validation (WCAG), OKLCH support. Built solo.
 
 ---
 
-*Based in Brazil · Open to remote roles in Europe*
+*Based in Brazil · Available to Work
