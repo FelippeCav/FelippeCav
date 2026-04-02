@@ -17,7 +17,7 @@
 ### Projects
 
 **[NiceHue](https://nicehue.com)** — Accessibility-focused color tooling for designers and developers.
-Color palette generation, contrast validation (WCAG), OKLCH support. Built solo.
+Color palette generation, contrast validation (WCAG) and colorblind simulator. Built solo.
 
 ---
 
