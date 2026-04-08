@@ -1,29 +1,22 @@
 # Felippe Cavalcante
 
-**Senior Product Designer** — UX, product strategy and growth, with front-end implementation skills.
+Head of Design · Product, UI/UX, and front-end
 
-10+ years designing digital products across SaaS, B2B and e-commerce. I work at the intersection of design, business and code — and I ship things.
-
----
-
-### What I do
-
-- End-to-end product design: discovery, IA, wireframing, prototyping, design systems
-- Growth-informed UX: funnel design, conversion, A/B testing, metrics that matter
-- Design-to-code: I understand implementation and build my own tools
+I design and ship digital products, working across product design, user experience, and implementation.
 
 ---
 
 ### Projects
 
-**[NiceHue](https://nicehue.com)** — Accessibility-focused color tooling for designers and developers.
-Color palette generation, contrast validation (WCAG) and colorblind simulator. Built solo.
+**NiceHue** — https://nicehue.com  
+Accessibility-focused color tooling SaaS with OKLCH color picker, WCAG contrast validation, and colorblind simulation.  
+Built solo using AI-assisted workflows.
 
 ---
 
 ### Links
 
-[LinkedIn](https://linkedin.com/in/felippe-cavalcante) · [NiceHue](https://nicehue.com) · [CodePen](https://codepen.io/felippecav)
+LinkedIn — https://linkedin.com/in/felippe-cavalcante  
 
 ---
 
